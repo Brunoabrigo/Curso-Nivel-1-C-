@@ -1,0 +1,16 @@
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\bin\Debug\net5.0\quinto-ejercicio.exe
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\bin\Debug\net5.0\quinto-ejercicio.deps.json
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\bin\Debug\net5.0\quinto-ejercicio.runtimeconfig.json
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\bin\Debug\net5.0\quinto-ejercicio.runtimeconfig.dev.json
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\bin\Debug\net5.0\quinto-ejercicio.dll
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\bin\Debug\net5.0\ref\quinto-ejercicio.dll
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\bin\Debug\net5.0\quinto-ejercicio.pdb
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\quinto-ejercicio.csproj.AssemblyReference.cache
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\quinto-ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\quinto-ejercicio.AssemblyInfoInputs.cache
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\quinto-ejercicio.AssemblyInfo.cs
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\quinto-ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\quinto-ejercicio.dll
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\ref\quinto-ejercicio.dll
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\quinto-ejercicio.pdb
+C:\Users\usr\Desktop\Curso C# Nivel 1\3. Ejercicios-IF++\quinto-ejercicio\obj\Debug\net5.0\quinto-ejercicio.genruntimeconfig.cache
